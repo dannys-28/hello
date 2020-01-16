@@ -6,7 +6,7 @@ Date: 2020/01/14
 
 int main(void) {
 	
-	printf("Hello World!\n");
+	printf("Danny Schroeder\n");
 	printf("Electrical Engineering\n")
 	
 	return 0;
